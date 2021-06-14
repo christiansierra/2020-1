@@ -1,1 +1,436 @@
-<mxfile host="app.diagrams.net" modified="2021-06-14T03:03:17.055Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" version="14.7.6" etag="QNw82NYH-xzkvFTgJ7Wy" type="github"><diagram id="3JY-rQ7jbGTy-laKOZHR">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-14T03:55:12.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.101 Safari/537.36" etag="eDGFAMS6LM_ghpUDktB0" version="14.7.6" type="github">
+  <diagram id="3JY-rQ7jbGTy-laKOZHR" name="Page-1">
+    <mxGraphModel dx="6515" dy="4345" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-1" target="dnms6vJ9t_ZS45IUhuJs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-1" target="dnms6vJ9t_ZS45IUhuJs-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-1" target="dnms6vJ9t_ZS45IUhuJs-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-1" target="dnms6vJ9t_ZS45IUhuJs-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-1" target="dnms6vJ9t_ZS45IUhuJs-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-1" target="dnms6vJ9t_ZS45IUhuJs-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-1" target="dnms6vJ9t_ZS45IUhuJs-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="201" y="330" />
+              <mxPoint x="-140" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-1" target="dnms6vJ9t_ZS45IUhuJs-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="350" />
+              <mxPoint x="474" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-1" target="dnms6vJ9t_ZS45IUhuJs-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="350" />
+              <mxPoint x="390" y="350" />
+              <mxPoint x="390" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-1" target="dnms6vJ9t_ZS45IUhuJs-126">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="299" y="350" />
+              <mxPoint x="390" y="350" />
+              <mxPoint x="390" y="20" />
+              <mxPoint x="1120" y="20" />
+              <mxPoint x="1120" y="320" />
+              <mxPoint x="1271" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-1" value="PLATAFORMAS Y HERRAMIENTAS IOT" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="360" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-2" target="dnms6vJ9t_ZS45IUhuJs-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-2" value="ZETTA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-3" target="dnms6vJ9t_ZS45IUhuJs-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-3" target="dnms6vJ9t_ZS45IUhuJs-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-3" target="dnms6vJ9t_ZS45IUhuJs-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-3" target="dnms6vJ9t_ZS45IUhuJs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-3" target="dnms6vJ9t_ZS45IUhuJs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-3" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Es una plataforma de IoT basada en API basada en Node.js&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="375" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-4" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Puede ejecutarse en la nube, en una PC o incluso en placas de desarrollo modestas.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="90" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-5" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;I&lt;/span&gt;&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;nterfaz sencilla y programación necesaria para controlar sensores, actuadores y controladores.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-650" y="357.5" width="170" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-6" value="&lt;div style=&quot;text-align: left ; font-size: 13px&quot;&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255) ; font-size: 13px&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Permite a los desarrolladores ensamblar aplicaciones para teléfonos inteligentes, aplicaciones para dispositivos y aplicaciones en la nube.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="470" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-7" value="&lt;div style=&quot;text-align: left ; font-size: 13px&quot;&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;E&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;stá desarrollado para aplicaciones intensivas en datos y en tiempo real.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="210" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-8" value="&lt;div style=&quot;text-align: left ; font-size: 13px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Convierte cualquier máquina en una API.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-660" y="620" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-9" target="dnms6vJ9t_ZS45IUhuJs-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-9" value="ARDUINO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-10" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Al ofrecer una combinación adecuada de hardware y software de IoT, Arduino es una plataforma de IoT fácil de usar.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="800" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-12" target="dnms6vJ9t_ZS45IUhuJs-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-12" target="dnms6vJ9t_ZS45IUhuJs-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-12" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;El software de Arduino viene en el plan del lenguaje de programación Arduino y el entorno de desarrollo integrado (IDE).&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="640" width="160" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-13" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; font-size: 13px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Opera a través de una serie de especificaciones de hardware que se pueden dar a la electrónica interactiva.&amp;nbsp;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="800" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-14" target="dnms6vJ9t_ZS45IUhuJs-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-14" value="NODE-RED" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="375" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-15" target="dnms6vJ9t_ZS45IUhuJs-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-15" target="dnms6vJ9t_ZS45IUhuJs-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-15" target="dnms6vJ9t_ZS45IUhuJs-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-15" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Es una herramienta visual para alinear el Internet de las cosas, es decir, conectar dispositivos de hardware, API y servicios en línea de nuevas formas. Construido sobre Node.js&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="340" width="190" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-16" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;&amp;nbsp;Node-RED se describe a sí mismo como &quot;un medio visual para conectar el Internet de las cosas&quot;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="230" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-17" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Proporciona a los desarrolladores la posibilidad de conectar dispositivos, servicios y API mediante un editor de flujo basado en navegador.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="490" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-18" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Puede ejecutarse en Raspberry Pi, y se puede acceder a más de 60,000 módulos para aumentar sus instalaciones.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="360" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-35" target="dnms6vJ9t_ZS45IUhuJs-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-35" value="OPEN REMOTE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-37" target="dnms6vJ9t_ZS45IUhuJs-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-37" target="dnms6vJ9t_ZS45IUhuJs-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-37" target="dnms6vJ9t_ZS45IUhuJs-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-37" target="dnms6vJ9t_ZS45IUhuJs-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-37" target="dnms6vJ9t_ZS45IUhuJs-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-37" target="dnms6vJ9t_ZS45IUhuJs-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-37" target="dnms6vJ9t_ZS45IUhuJs-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-37" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Introdujo una nueva plataforma IoT de código abierto para crear aplicaciones profesionales de gestión de energía, gestión de multitudes o aplicaciones de gestión de activos más genéricas.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-39" value="&lt;font style=&quot;font-size: 13px&quot;&gt;M&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;odelo genérico de activos y atributos con diferentes tipos de activos&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="-175" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-40" value="&lt;font style=&quot;font-size: 13px&quot;&gt;A&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;gentes de protocolo como HTTP REST o MQTT para conectar sus dispositivos, puertas de enlace o servicios de datos de IoT o crear una API específica del proveedor faltante.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-210" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-41" value="&lt;font style=&quot;font-size: 13px&quot;&gt;E&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;ditor de flujo para el procesamiento de datos y un CUÁNDO-ENTONCES y una IU Groovy para reglas basadas en eventos.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="-200" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-42" value="&lt;font style=&quot;font-size: 13px&quot;&gt;T&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;ablero de control estándar para aprovisionar, automatizar, controlar y monitorear su aplicación, así como componentes de interfaz de usuario web para crear aplicaciones específicas del proyecto.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-220" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-43" value="&lt;font style=&quot;font-size: 13px&quot;&gt;C&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;onsolas Android e iOS que le permiten conectarse a los servicios de su teléfono, por ejemplo, geocercas y notificaciones automáticas.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-200" width="170" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-44" value="&lt;font style=&quot;font-size: 13px&quot;&gt;S&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;olución Edge Gateway para conectar varias instancias con una instancia de administración central.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-200" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-46" value="&lt;span style=&quot;font-size: 13px&quot;&gt;So&lt;/span&gt;&lt;span style=&quot;font-size: 13px ; color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;lución multiinquilino de múltiples dominios, combinada con administración de cuentas y servicio de identidad.&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="-185" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-58" target="dnms6vJ9t_ZS45IUhuJs-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-58" value="ALETEO" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-60" target="dnms6vJ9t_ZS45IUhuJs-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-60" target="dnms6vJ9t_ZS45IUhuJs-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-60" target="dnms6vJ9t_ZS45IUhuJs-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-60" target="dnms6vJ9t_ZS45IUhuJs-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-60" target="dnms6vJ9t_ZS45IUhuJs-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-60" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Es un núcleo de procesador programable para proyectos de electrónica, diseñado para estudiantes e ingenieros.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-235" y="645" width="150" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-62" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Consiste en encriptación AES de 256 bits y es fácil de usar.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-405" y="660" width="135" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-64" value="&lt;font style=&quot;font-size: 13px&quot;&gt;R&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;endimiento rápido&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-430" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-65" value="&lt;font style=&quot;font-size: 13px&quot;&gt;UI&amp;nbsp;&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;expresiva y flexible&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="665" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-66" value="&lt;font style=&quot;font-size: 13px&quot;&gt;R&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;endimiento nativo&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-67" value="&lt;font style=&quot;font-size: 13px&quot;&gt;A&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;cabado visual y funcionalidad de los widgets existentes.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-73" target="dnms6vJ9t_ZS45IUhuJs-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-73" value="THINGSBOARD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-74" target="dnms6vJ9t_ZS45IUhuJs-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.441;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-74" target="dnms6vJ9t_ZS45IUhuJs-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-74" target="dnms6vJ9t_ZS45IUhuJs-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-74" target="dnms6vJ9t_ZS45IUhuJs-81">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="770" />
+              <mxPoint x="555" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-74" target="dnms6vJ9t_ZS45IUhuJs-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="685" y="770" />
+              <mxPoint x="810" y="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-74" target="dnms6vJ9t_ZS45IUhuJs-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-74" target="dnms6vJ9t_ZS45IUhuJs-83">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="685" />
+              <mxPoint x="1070" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-74" target="dnms6vJ9t_ZS45IUhuJs-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="685" />
+              <mxPoint x="1070" y="795" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-74" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Es para la recopilación, el procesamiento, la visualización y la gestión de dispositivos de datos. Mantiene todos los protocolos estándar de IoT como CoAP, MQTT y HTTP tan rápido como las implementaciones en la nube y en las instalaciones.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="630" width="270" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-77" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Crea flujos de trabajo basados ​​en eventos de ciclo de vida de diseño, eventos de API REST, solicitudes de RPC.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="810" width="200" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-78" value="&lt;font style=&quot;font-size: 13px&quot;&gt;U&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;na plataforma estable que combina escalabilidad, producción y tolerancia a fallas.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="640" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-79" value="&lt;font style=&quot;font-size: 13px&quot;&gt;F&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;ácil control de todos los dispositivos conectados en un sistema excepcionalmente seguro&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="637.5" width="170" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-80" value="&lt;font style=&quot;font-size: 13px&quot;&gt;T&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;ransforma y normaliza las entradas del dispositivo y facilita las alarmas para generar alertas sobre todos los eventos de telemetría, restauraciones e inactividad.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="825" y="800" width="220" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-81" value="&lt;font style=&quot;font-size: 13px&quot;&gt;H&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;abilita funciones específicas de estado de uso mediante grupos de reglas personalizables.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="960" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-82" value="&lt;font style=&quot;font-size: 13px&quot;&gt;M&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;aneja millones de dispositivos al mismo tiempo.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-83" value="&lt;font style=&quot;font-size: 13px&quot;&gt;N&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;o hay un solo momento de falla, ya que todos los nodos del paquete son exactos.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="540" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-84" value="&lt;font style=&quot;font-size: 13px&quot;&gt;I&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;nstalaciones de múltiples inquilinos listas para usar.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="760" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-97" target="dnms6vJ9t_ZS45IUhuJs-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-97" value="KINOMA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-99" target="dnms6vJ9t_ZS45IUhuJs-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-99" target="dnms6vJ9t_ZS45IUhuJs-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-99" target="dnms6vJ9t_ZS45IUhuJs-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-99" value="&lt;font style=&quot;font-size: 13px&quot;&gt;Es&amp;nbsp;&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;una plataforma de creación de prototipos de hardware de Marvell Semiconductor, involucra tres proyectos de código abierto diferentes.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-217.5" y="110" width="155" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-101" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Kimona Create es un kit de construcción de bricolaje para la creación de prototipos de dispositivos electrónicos.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="105" width="155" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-102" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Kimona Studio es el entorno de desarrollo que funciona con Set up y Kinoma Platform Runtime.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="115" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-103" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Kimona Connect es una aplicación gratuita para iOS y Android que vincula teléfonos inteligentes y soportes con dispositivos IoT.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="-20" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-107" target="dnms6vJ9t_ZS45IUhuJs-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-107" value="DSA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-109" target="dnms6vJ9t_ZS45IUhuJs-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-109" target="dnms6vJ9t_ZS45IUhuJs-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-109" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 13px&quot;&gt;&lt;a href=&quot;http://iot-dsa.org/&quot; target=&quot;_blank&quot; style=&quot;box-sizing: inherit ; background-color: rgb(255 , 255 , 255) ; cursor: pointer ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left&quot;&gt;Arquitectura de servicios distribuidos (DSA)&lt;/a&gt;&lt;span style=&quot;font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&amp;nbsp;es para implementar la comunicación entre dispositivos, la lógica y los esfuerzos en cada paso de la infraestructura de IoT.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="60" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-111" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Permite la cooperación entre dispositivos de manera distribuida y configura un ingeniero de red para compartir la funcionalidad entre sistemas informáticos discretos.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="845" y="65" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-112" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Puede administrar los atributos, permisos y enlaces de los nodos desde DSLinks.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="210" width="140" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-115" target="dnms6vJ9t_ZS45IUhuJs-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-115" value="THINGER" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-117" target="dnms6vJ9t_ZS45IUhuJs-121">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-117" target="dnms6vJ9t_ZS45IUhuJs-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-117" target="dnms6vJ9t_ZS45IUhuJs-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-117" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Proporciona una base de nube escalable para conectar dispositivos.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="-35" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-118" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Puede tratar con ellos rápidamente ejecutando la consola de administración o combinarlos en la lógica de su proyecto usando su API REST.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="155" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-120" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Es compatible con todo tipo de placas de piratas informáticos como Raspberry Pi, Intel Edison, ESP8266.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1720" y="-20" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-121" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Thinger se puede integrar con IFTT y proporciona datos en tiempo real en un hermoso tablero.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="-197.5" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-126" target="dnms6vJ9t_ZS45IUhuJs-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-126" value="SITE WHERE" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1181" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-128" target="dnms6vJ9t_ZS45IUhuJs-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-128" target="dnms6vJ9t_ZS45IUhuJs-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-128" target="dnms6vJ9t_ZS45IUhuJs-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-128" target="dnms6vJ9t_ZS45IUhuJs-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnms6vJ9t_ZS45IUhuJs-128" target="dnms6vJ9t_ZS45IUhuJs-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-128" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;La plataforma ofrece la ingestión, el repositorio, el procesamiento y la asimilación de las entradas del dispositivo. Se ejecuta en Apache Tomcat y proporciona implementaciones de MongoDB y HBase altamente ajustadas.&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="345" width="220" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-129" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;Puede implementar SiteWhere en plataformas en la nube como AWS, Azure, GCP o en las instalaciones.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="110" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-130" value="&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;También es compatible con el aprovisionamiento de clústeres de Kubernetes.&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="240" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-131" value="&lt;font style=&quot;font-size: 13px&quot;&gt;A&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;gregue widgets a través de autorregistro, servicios REST o en lotes.&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="490" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-132" value="&lt;font style=&quot;font-size: 13px&quot;&gt;C&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;onecte dispositivos con MQTT, Stomp, AMQP y otros protocolos&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="365" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dnms6vJ9t_ZS45IUhuJs-133" value="&lt;font style=&quot;font-size: 13px&quot;&gt;I&lt;span style=&quot;color: rgb(38 , 37 , 36) ; font-family: &amp;#34;geekflare&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;ntegra marcos de integración de terceros&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1654" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
